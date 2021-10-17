@@ -1,1 +1,5 @@
-puts("Ruby Template")
+def main
+  puts 'Ruby Template'
+end
+
+main
