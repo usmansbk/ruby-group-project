@@ -1,6 +1,6 @@
-# Project Title
+# Ruby group capstone - Catalog of my things
 
-Add a a project description
+A console app that will help you keep record of different types of things you won: books, music albums, movies, and games.
 
 ## Built With
 
@@ -23,7 +23,13 @@ To get a local copy up and running follow these simple example steps.
 ### Run
 
 ```rb
-irb main_file.rb
+irb main.rb
+```
+
+### Test
+
+```rb
+rspec
 ```
 
 ## Authors
@@ -34,11 +40,17 @@ irb main_file.rb
 - Twitter: [@usmansbk](https://twitter.com/usmansbk)
 - LinkedIn: [Usman Suleiman Babakolo](https://linkedin.com/in/usmansbk)
 
-👤 **Tolib**
+👤 **Gift**
 
-- GitHub: [@toliboff](https://github.com/toliboff)
-- Twitter: [@toliboff](https://twitter.com/toliboff)
-- LinkedIn: [Tolibjon Tolibov](https://linkedin.com/in/toliboff)
+- GitHub: [@Ghiftee](https://github.com/Ghiftee)
+- Twitter: [@i_Ghiftee](https://twitter.com/i_Ghiftee)
+- LinkedIn: [Gift Uwhubetine](https://linkedin.com/in/gift-uwhubetine-62675417a/)
+
+👤 **Denis**
+
+- GitHub: [@denisdiaconu](https://github.com/denisdiaconu)
+- Twitter: [@DenisAndreilDia1](https://twitter.com/DenisAndreilDia1)
+- LinkedIn: [Deni Diaconu](https://linkedin.com/in/denis-diaconu-1394091b7)
 
 ## 🤝 Contributing
 
