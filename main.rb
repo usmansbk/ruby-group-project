@@ -1,1 +1,1 @@
-puts("Ruby Template")
+puts('Ruby Template')
